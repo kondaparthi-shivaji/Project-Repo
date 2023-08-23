@@ -1,0 +1,5 @@
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectModels\bin\Debug\ProjectModels.dll
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectModels\bin\Debug\ProjectModels.pdb
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectModels\obj\Debug\ProjectModels.csproj.CoreCompileInputs.cache
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectModels\obj\Debug\ProjectModels.dll
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectModels\obj\Debug\ProjectModels.pdb
