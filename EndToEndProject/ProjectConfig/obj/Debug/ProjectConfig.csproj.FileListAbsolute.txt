@@ -1,0 +1,11 @@
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectConfig\bin\Debug\ProjectConfig.dll
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectConfig\bin\Debug\ProjectConfig.pdb
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectConfig\bin\Debug\ProjectModels.dll
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectConfig\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectConfig\bin\Debug\ProjectModels.pdb
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectConfig\bin\Debug\System.Data.SqlClient.xml
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectConfig\obj\Debug\ProjectConfig.csproj.AssemblyReference.cache
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectConfig\obj\Debug\ProjectConfig.csproj.CoreCompileInputs.cache
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectConfig\obj\Debug\ProjectConfig.csproj.CopyComplete
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectConfig\obj\Debug\ProjectConfig.dll
+C:\Users\GAC-LP0069\source\ProjectPoc\EndToEndProject\ProjectConfig\obj\Debug\ProjectConfig.pdb
